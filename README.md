@@ -14,7 +14,9 @@ This activity introduces JDateChooser being applied to JDBC + SQLite application
 		name varchar(50),
 		birthday text,
 		image blob
-	)
+	);
+
+	-- you may add other DDL or DML or DQL statements here..
   ```
 - [X] Design and build an application that will exhibit JDateChooser and Image.
   * Tasks
