@@ -17,11 +17,11 @@ This activity introduces JDateChooser and be applied in JDBC + SQLite applicatio
 	)
   ```
 - [X] Design and build an application that will exhibit JDateChooser and Image.
-  Tasks
-  * A desktop app that should store basic profile information that includes name, birthday and profile image.
-  * A desktop app that should retrieve basic profile information and display using JTable.
-  * A desktop app that should update basic profile information.
-  * A desktop app that should remove basic profile information.
+  * Tasks
+    - [X] A desktop app that should store basic profile information that includes name, birthday and profile image.
+    - [X] A desktop app that should retrieve basic profile information and display using JTable.
+    - [X] A desktop app that should update basic profile information.
+    - [X] A desktop app that should remove basic profile information.
 - [X] Component Checklist
   - [X] JFrame
   - [X] JLabel
