@@ -1,5 +1,5 @@
 # java-datechooser
-This activity introduces JDateChooser and be applied in JDBC + SQLite application.
+This activity introduces JDateChooser being applied to JDBC + SQLite application.
 
 ### References
 * [JDateChooser from toedter](https://toedter.com/jcalendar/)
