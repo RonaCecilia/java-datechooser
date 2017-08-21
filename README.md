@@ -34,7 +34,7 @@ This activity introduces JDateChooser and be applied in JDBC + SQLite applicatio
 ### Submit
 ```console
 TO: cbalaman@uic.edu.ph
-SUBJECT: LASTNAME1_LASTNAME2_082217
+SUBJECT: OOP BSIT3-<SECTION> LASTNAME1_LASTNAME2_082217
 BODY:
 	Write your message/concern here.
 	Clean and Build the project and attach Netbeans Project Directory that includes dist folder. 
@@ -42,5 +42,7 @@ BODY:
 
 DUE DATE: August 24, 2017 (11:00 PM)
 ```
-
-### Good Luck! :octocat:
+<center>
+### Good Luck! 
+:octocat:
+</center>
