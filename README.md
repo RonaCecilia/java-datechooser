@@ -42,7 +42,5 @@ BODY:
 
 DUE DATE: August 24, 2017 (11:00 PM)
 ```
-<center>
-### Good Luck! 
-:octocat:
-</center>
+
+Good Luck! :octocat:
